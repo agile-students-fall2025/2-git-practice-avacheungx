@@ -13,3 +13,7 @@ Juno Cheung
 > - **Cutting-Edge Research:** The attack highlights ongoing challenges in hardware and software security, showing that even widely used technologies can have critical flaws.
 >
 > I found this article interesting because it demonstrates how attackers are constantly finding new ways to bypass security boundaries we rely on. It’s a reminder to stay updated on security news and to patch systems regularly.
+
+## prestonglee0805 Opinion 9/15/25: 
+
+I found this article interesting because it shows how even fundamental technologies like virtualization, which so many organizations rely on, can have hidden vulnerabilities. The fact that VMSApe affects both AMD and Intel CPUs highlights how widespread the risk can be. It reinforces the importance of staying updated with security news, patching quickly, and not assuming any layer of the stack is completely safe.
